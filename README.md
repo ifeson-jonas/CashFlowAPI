@@ -1,4 +1,4 @@
-printf '%s\n' '
+
 <h1 align="center">💸 CashFlowAPI</h1>
 <p align="center">
   API RESTful para controle financeiro de clientes, projetos e pagamentos.
