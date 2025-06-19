@@ -1,0 +1,49 @@
+# Visual Studio / .NET
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+
+# NuGet
+*.nupkg
+*.nuspec
+*.psmdcp
+.nuget/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.env.*
+
+# SQLite database
+*.db
+
+# Logs
+*.log
+
+# Node (se houver node)
+node_modules/
+package-lock.json
+yarn.lock
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
